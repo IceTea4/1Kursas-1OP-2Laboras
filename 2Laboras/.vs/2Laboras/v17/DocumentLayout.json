@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gjaku\\Documents\\OP\\2Laboras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A78BBEA0-679A-4392-B9EA-A9226928A2E6}|2Laboras\\2Laboras.csproj|c:\\users\\gjaku\\documents\\op\\2laboras\\2laboras\\forma1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78BBEA0-679A-4392-B9EA-A9226928A2E6}|2Laboras\\2Laboras.csproj|solutionrelative:2laboras\\forma1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78BBEA0-679A-4392-B9EA-A9226928A2E6}|2Laboras\\2Laboras.csproj|c:\\users\\gjaku\\documents\\op\\2laboras\\2laboras\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78BBEA0-679A-4392-B9EA-A9226928A2E6}|2Laboras\\2Laboras.csproj|solutionrelative:2laboras\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78BBEA0-679A-4392-B9EA-A9226928A2E6}|2Laboras\\2Laboras.csproj|c:\\users\\gjaku\\documents\\op\\2laboras\\2laboras\\linklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78BBEA0-679A-4392-B9EA-A9226928A2E6}|2Laboras\\2Laboras.csproj|solutionrelative:2laboras\\linklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78BBEA0-679A-4392-B9EA-A9226928A2E6}|2Laboras\\2Laboras.csproj|c:\\users\\gjaku\\documents\\op\\2laboras\\2laboras\\forma1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A78BBEA0-679A-4392-B9EA-A9226928A2E6}|2Laboras\\2Laboras.csproj|solutionrelative:2laboras\\forma1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 251,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\gjaku\\Documents\\OP\\2Laboras\\2Laboras\\Profesor.cs",
+              "RelativeDocumentMoniker": "2Laboras\\Profesor.cs",
+              "ToolTip": "C:\\Users\\gjaku\\Documents\\OP\\2Laboras\\2Laboras\\Profesor.cs",
+              "RelativeToolTip": "2Laboras\\Profesor.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAFAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T16:20:29.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinkList.cs",
+              "DocumentMoniker": "C:\\Users\\gjaku\\Documents\\OP\\2Laboras\\2Laboras\\LinkList.cs",
+              "RelativeDocumentMoniker": "2Laboras\\LinkList.cs",
+              "ToolTip": "C:\\Users\\gjaku\\Documents\\OP\\2Laboras\\2Laboras\\LinkList.cs",
+              "RelativeToolTip": "2Laboras\\LinkList.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAAAMAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:47:32.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Forma1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\gjaku\\Documents\\OP\\2Laboras\\2Laboras\\Forma1.aspx.cs",
+              "RelativeDocumentMoniker": "2Laboras\\Forma1.aspx.cs",
+              "ToolTip": "C:\\Users\\gjaku\\Documents\\OP\\2Laboras\\2Laboras\\Forma1.aspx.cs",
+              "RelativeToolTip": "2Laboras\\Forma1.aspx.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:35:22.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Forma1.aspx",
+              "DocumentMoniker": "C:\\Users\\gjaku\\Documents\\OP\\2Laboras\\2Laboras\\Forma1.aspx",
+              "RelativeDocumentMoniker": "2Laboras\\Forma1.aspx",
+              "ToolTip": "C:\\Users\\gjaku\\Documents\\OP\\2Laboras\\2Laboras\\Forma1.aspx",
+              "RelativeToolTip": "2Laboras\\Forma1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-14T16:27:25.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A78BBEA0-679A-4392-B9EA-A9226928A2E6}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="2Laboras/Web.config">
+    <Files>
+      <File FileName="2Laboras/Web.config" Line="1" Column="1" />
+      <File FileName="2Laboras/Forma1.aspx" Line="1" Column="1" />
+      <File FileName="2Laboras/InOut.cs" Line="1" Column="1" />
+      <File FileName="2Laboras/LinkList.cs" Line="1" Column="1" />
+      <File FileName="2Laboras/Profesor.cs" Line="1" Column="1" />
+      <File FileName="2Laboras/Projects.cs" Line="1" Column="1" />
+      <File FileName="2Laboras/Student.cs" Line="1" Column="1" />
+      <File FileName="2Laboras/TaskUtils.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2Laboras" expanded="True">
+            <Node name="2Laboras" expanded="True">
+              <Node name="Web.config" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.2Laboras PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
